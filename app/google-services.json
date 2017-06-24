@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268027370493",
+    "firebase_url": "https://exdeusostoragefirebase-e46df.firebaseio.com",
+    "project_id": "exdeusostoragefirebase-e46df",
+    "storage_bucket": "exdeusostoragefirebase-e46df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268027370493:android:12a33b30325c3f67",
+        "android_client_info": {
+          "package_name": "com.example.iossenac.exdeusostoragefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268027370493-phkge0rtalat9p151mcig1fhqg8i1vjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5hiB6MpwskVM2zkHEB4LvIlwmp1y6Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
